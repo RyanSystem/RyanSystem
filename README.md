@@ -1,9 +1,17 @@
 ### Hi there 👋 :dart: :bulb:
 
 
-  Sou Murilo Ryan, sou Bacharel em sistema de informação e faço parte do Academy no Projeto Qa.Coders, onde sou tech líder em uma Squad, onde estamos elaborando casos de testes, cenários, histórias de usuários e critérios de aceite de um produto de uma empresa parceira. Atuamos com a metodologia Scrum. Utilizamos a ferramenta Azure DevOps para o gerenciamento do projeto, onde recebemos e realizamos todas as demandas para entregas. 
-Atuo no desenvolvimento e execução de testes de API de Backend nas ferramentas Postman e vscode, manipulação de banco de dados com o MongoDB e Sql, criação de massa de dados no Postman para testes manuais e automatizados de API. Versionamento de Código no GitHub, configuração do CI para teste automatizados. Teste automatizados na linguagem Ruby, capybara e selenium
-Atualmente estou me desenvolvendo na area de programação para me tornar um programador full stack. 
+  Olá! Me chamo Murilo Ryan, sou Bacharel em Sistemas de Informação e estou me especializando na área de Qualidade e Automação de Software. Tenho experiência em automação de testes para APIs, Front-end e Mobile, utilizando diversas ferramentas e frameworks para garantir a qualidade dos produtos que testamos.
+
+Atualmente, trabalho como Analista de Automação, onde utilizo Robot Framework para automação de Back-end (API), Front-end e Mobile com Appium. Além disso, realizo testes de API utilizando Postman e VS Code, criando massa de dados para testes manuais e automatizados.
+
+Estou sempre buscando evoluir na área, estudando Cypress, Robot Framework e Maestro para ampliar meu conhecimento em testes mobile, além de seguir me aprofundando no Appium.
+
+📌 Atualmente, utilizamos o Azure DevOps para o gerenciamento de projetos, onde criamos backlog, documentamos requisitos e planejamos casos de testes. Também configuro pipelines para execução de testes automatizados e integração contínua.
+
+🚀 Meu objetivo é seguir me aperfeiçoando em automação de testes, garantindo entregas mais ágeis e confiáveis!
+
+Se quiser trocar uma ideia sobre QA, automação ou ferramentas de testes, fique à vontade para me chamar! 😃
 
 Skills: <br>
 - Testes de software <br>
@@ -11,15 +19,11 @@ Skills: <br>
 - Testes Funcionais <br>
 - Planejamento de testes <br>
 - Testes de API com o Postman <br>
-- Geração de relatório com o Newman <br>
-- Versionamento de codigo no GitHub <br>
-- Linguagem Java Básica <br>
-- Linguagem Python Básica <br>
-- Criação de cenario de testes - BDD <br>
-- Configurando CI Azure DevOps - Executando Collection <br>
-- Banco de Dados:<br>
-- Sql <br>
-- MongoDB <br>
+- Automação: Robot Framework, Cypress, Appium, Maestro <br>
+- Versionamento de Código: GitHub <br>
+- CI/CD e Pipelines: Azure DevOps <br>
+- Linguagem Python Básica 🐍 <br>
+- Azure DevOps - Gerenciamento <br>
 
 Linha de estudos atual:
 <br>
