@@ -25,6 +25,7 @@ Skills: <br>
 - Linguagem Python Básica 🐍 <br>
 - Azure DevOps - Gerenciamento <br>
 
+
 Linha de estudos atual:
 <br>
 <br>
